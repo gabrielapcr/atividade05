@@ -1,2 +1,2 @@
 # atividade05
-atividade 5 
+o programa utiliza das threads para somar os valores de uma matriz 
